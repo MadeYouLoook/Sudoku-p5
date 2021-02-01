@@ -15,4 +15,6 @@ N - Sets the board to a random easy sudoku
 
 S - (not yet implemented) Solves the board with an animation
 
+(open console for some useful notes about the current state / actions)
+
 [Test my code here!](https://madeyouloook.github.io/Sudoku/)

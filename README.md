@@ -3,6 +3,8 @@ Sudoku with a solver
 
 The solver is yet to be implemented but will hopefully use backtracking and a custom coded algorithm that would use real world sudoku strateigies.
 
+Made with p5.js
+
 ## Controls
 
 W - Toggles between write and note mode.
